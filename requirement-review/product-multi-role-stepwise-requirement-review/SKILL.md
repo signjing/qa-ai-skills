@@ -1,5 +1,5 @@
 ---
-name: product.multi-role-stepwise-requirement-review
+name: product-multi-role-stepwise-requirement-review
 description: 多角色分步骤需求评审；模拟5角色从完整性、一致性、可测试性三维度审查需求文档；输出优先级排序的问题清单
 license: MIT
 ---
