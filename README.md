@@ -21,10 +21,11 @@
 | [`requirement-review/`](./requirement-review/) | 多个需求评审Skill | ✅ 已验证 |
 | [`test-design/`](./test-design/) | 多个测试用例设计Skill | 🚧 进行中 |
 
-### requirement-review：需求评审（待补充）
-
+### requirement-review：需求评审
+共 7 个 Skill，具体每个 Skill 是什么、该挑哪个，详见 [`requirement-review/README.md`](./requirement-review/README.md)。
 
 ### test-design：测试用例设计（进行中）
+正在迭代，会持续更新。
 
 
 ## 反馈与交流
