@@ -1,5 +1,5 @@
 ---
-name: socratic_prd_review
+name: socratic-prd-review
 description: 苏格拉底追问型（Socratic）PRD评审技能——只提问、不给结论。以10年B端测试经验的QA工程师视角，逐条阅读PRD功能点，找出"被默认但未明确"的假设，以苏格拉底式追问输出问题并附测试重要性说明。当用户提到苏格拉底评审、追问型PRD评审、Socratic PRD Review、苏格拉底式追问需求、以追问方式审PRD、用提问方式找需求漏洞、QA视角追问PRD、测试视角拷问需求文档时使用。
 license: MIT
 ---

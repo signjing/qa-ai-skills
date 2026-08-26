@@ -1,5 +1,5 @@
 ---
-name: prd_interaction_detail_review
+name: prd-interaction-detail-review
 description: 交互细节挖掘型PRD评审技能。以专注交互逻辑测试的QA工程师视角，从7个维度（弹窗行为、下拉联动、操作反馈、异步状态感知、限制条件执行方式、只读与可编辑边界、字段业务语义边界）逐维度扫描PRD，识别"PRD未明确描述"的交互细节遗漏并给出建议补充方向。当用户提到交互细节评审、交互完备性检查、PRD交互遗漏挖掘、交互逻辑审查、B端后台交互细节、Interaction Detail Review、交互细节挖掘型评审、UI交互PRD审查时使用。
 license: MIT
 ---
